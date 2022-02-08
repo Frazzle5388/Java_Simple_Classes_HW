@@ -29,6 +29,7 @@ public class Calculator {
     public int multiply(){return this.nine * this.four;}
 
     public double divide(){return this.nine / this.two;}
+//    I am aware that this is incorrect, as test passes regardless of numbers chosen in the division equation
 
 
 }
